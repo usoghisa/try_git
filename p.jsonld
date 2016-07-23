@@ -10,5 +10,6 @@
       "@id": "http://schema.org/url",
       "@type": "@id"
     }
-  }
+  },
+  "name": "Manu Sporny"
 }
