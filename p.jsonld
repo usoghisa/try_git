@@ -15,5 +15,11 @@
       "@type": "@id"
     }
   },
-  "name": "Manu Sporny" 
+ "@graph":
+[{"name": "Manu Sporny" },
+{"name": "ppp" }
+
+]
+
+  
 }
