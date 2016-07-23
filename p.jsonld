@@ -2,7 +2,7 @@
   "@context":
   {
     "name": "http://schema.org/name",
-  "name": "Manu Sporny",
+
     "image": {
       "@id": "http://schema.org/image",
       "@type": "@id"
