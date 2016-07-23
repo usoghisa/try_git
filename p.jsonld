@@ -4,7 +4,6 @@
     "name":{
       "@id":"http://schema.org/name",
       "@type": "@id",
-       "name": "Manu Sporny" 
     } ,
 
     "image": {
@@ -15,5 +14,6 @@
       "@id": "http://schema.org/url",
       "@type": "@id"
     }
-  }
+  },
+  "name": "Manu Sporny" 
 }
