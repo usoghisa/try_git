@@ -1,7 +1,10 @@
 {
   "@context":
   {
-    "name": "http://schema.org/name",
+    "name":{
+      "@type":"http://schema.org/name",
+      "@value":"ppp"
+    } 
 
     "image": {
       "@id": "http://schema.org/image",
