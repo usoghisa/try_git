@@ -4,7 +4,7 @@
     "name":{
       "@id":"http://schema.org/name",
       "@type": "@id"
-    } 
+    } ,
 
     "image": {
       "@id": "http://schema.org/image",
