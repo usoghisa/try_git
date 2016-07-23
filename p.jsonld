@@ -14,12 +14,5 @@
       "@id": "http://schema.org/url",
       "@type": "@id"
     }
-  },
-  "@graph":
-[{
-    "@id":"#Miro",
-    "@type": "Person",
-  	"name": "Miro"
-  },{}]
-
+  }
 }
