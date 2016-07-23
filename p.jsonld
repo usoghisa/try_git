@@ -14,12 +14,6 @@
       "@id": "http://schema.org/url",
       "@type": "@id"
     }
-  },
- "@graph":
-[{"name": "Manu Sporny" },
-{"name": "ppp" }
-
-]
-
+  }
   
 }
