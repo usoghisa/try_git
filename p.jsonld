@@ -1,18 +1,16 @@
 {
-  "@context":
-  {
-    "name":{
-      "@id":"http://schema.org/name",
-      "@type": "@id"
-    } ,
-
-    "image": {
-      "@id": "http://schema.org/image",
-      "@type": "@id"
-    },
-    "homepage": {
-      "@id": "http://schema.org/url",
-      "@type": "@id"
-    }
+  "@context": "http://schema.org/",
+  "@type": "Person",
+  "name":{
+  "@id":"http://schema.org/name",
+  "@type": "@id"
+  }, 
+  "image": {
+  "@id": "http://schema.org/image",
+  "@type": "@id"
+  },
+  "homepage": {
+  "@id": "http://schema.org/url",
+  "@type": "@id"
   }
 }
