@@ -1,4 +1,4 @@
-{
+
   "@context": "http://schema.org/",
   "@type": "Person",
   "name":{
@@ -13,4 +13,4 @@
   "@id": "http://schema.org/url",
   "@type": "@id"
   }
-}
+
